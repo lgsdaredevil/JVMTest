@@ -1,9 +1,9 @@
 /**  
 * @Title: JavaHeapError.java  
 * @Package com.jmvtest  
-* @Description: TODO(ÓÃÒ»¾ä»°ÃèÊö¸ÃÎÄ¼ş×öÊ²Ã´)  
+* @Description: TODO(ç”¨ä¸€å¥è¯æè¿°è¯¥æ–‡ä»¶åšä»€ä¹ˆ)  
 * @author dared  
-* @date 2018Äê3ÔÂ14ÈÕ  
+* @date 2018å¹´3æœˆ14æ—¥  
 * @version V1.0  
 */ 
 package com.jmvtest;
@@ -13,9 +13,9 @@ import java.util.List;
 
 /**  
 * @ClassName: JavaHeapError  
-* @Description: ²âÊÔJVMµÄOutOfMemoryErrorÒì³£  
+* @Description: æµ‹è¯•JVMçš„OutOfMemoryErrorå¼‚å¸¸  
 * @author lgs  
-* @date 2018Äê3ÔÂ14ÈÕ  
+* @date 2018å¹´3æœˆ14æ—¥  
 * 
 * VM Args: -Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError
 */
